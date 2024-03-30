@@ -26,7 +26,7 @@ class _PopularMoviesState extends State<PopularMovies> {
           print('helooo');
         },
         child: SizedBox(
-          height: Constants.mediaQuery.height * 0.29,
+          height: Constants.mediaQuery.height * 0.26,
           width: Constants.mediaQuery.width,
           // color: Constants.theme.primaryColorDark,
           child: FutureBuilder(

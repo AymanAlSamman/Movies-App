@@ -21,7 +21,7 @@ class _RecommendedViewState extends State<RecommendedView> {
   Widget build(BuildContext context) {
     return Container(
       width: Constants.mediaQuery.width,
-      height: Constants.mediaQuery.height * 0.32,
+      height: Constants.mediaQuery.height * 0.30,
       color: const Color(0xff282A28),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
